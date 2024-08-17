@@ -60,7 +60,7 @@ elif operacion == '*':
     print(f"{a}*{b}={result}")
 elif operacion == '/':
     if b != 0:
-    result = a / b
+        result = a / b
     print(f"{a}/{b}={result}")
 else:
     print('Na nol delit nelza')

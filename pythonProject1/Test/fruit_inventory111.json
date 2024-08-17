@@ -1,0 +1,48 @@
+{
+    "data": {
+        "node": {
+            "id": "RXBnOjMxNTcyNTcy",
+            "type": "EPG",
+            "name": "Pán profesor",
+            "originalName": "Pán profesor",
+            "description": "Druháčka Amélia je napriek svojmu veku nadšenou aktivistkou za veci, ktoré chce zmeniť. Jej nasadenie jej už v škole vyslúžilo aj nelichotivú prezývku, ale Améliu v jej boji za lepší svet nič nezastaví. Keď pri svojej dobrovoľníckej činnosti spozná...",
+            "audience": "NOT_RATED",
+            "genres": [
+                "Comedy"
+            ],
+            "channelKey": "markiza_archiv",
+            "price": null,
+            "media": {
+                "portrait": "https://cnt01.gtm-stage.orange.sk/contentserver/contents/119692729/categories/img/sizes/140x210/canvas/140x210/119692729.jpg",
+                "landscape": "https://cnt01.gtm-stage.orange.sk/contentserver/contents/119692730/categories/img/sizes/1500x844/canvas/1500x844/119692730.jpg",
+                "screenshots": [
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723190400.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723191900.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723191000.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723192500.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723191600.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723190700.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723192200.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723192800.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723191300.jpg",
+                    "https://cnt01.gtm-stage.orange.sk/contentserver/contents/5106/categories/img/sizes/720x576/canvas/720x576/1723193100.jpg"
+                ],
+                "__typename": "Media"
+            },
+            "originalSerialName": "Pán profesor",
+            "episodeNumber": 9,
+            "episodeName": "Aktivistka",
+            "totalEpisodeNumber": null,
+            "startTimestamp": 1723190100000,
+            "endTimestamp": 1723193700000,
+            "format": null,
+            "resolution": null,
+            "rating": null,
+            "playTime": 3600000,
+            "year": 0,
+            "aggregationId": "QWdncmVnYXRpb246NDAzNDM2OQ",
+            "channelId": "Q2hhbm5lbDptYXJraXphX2FyY2hpdg",
+            "__typename": "Epg"
+        }
+    }
+}
